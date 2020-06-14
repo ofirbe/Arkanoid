@@ -1,0 +1,99 @@
+# Level 1
+# SpongeBob
+
+START_LEVEL
+level_name:SpongeBob
+ball_velocities:45,5 -45,5 -30,5 30,5
+background:image(background_images/sbsp.jpg)
+paddle_speed:16
+paddle_width:160
+block_definitions:definitions/my_blocks_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+-sssssssssssss--
+-ppppppppppppp--
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# krusty_krab
+
+START_LEVEL
+level_name:Krusty_Krab
+ball_velocities:45,5 -45,5 -30,5 30,5
+background:image(background_images/Krusty_Krab.png)
+paddle_speed:16
+paddle_width:160
+block_definitions:definitions/my_blocks_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-s-s-p-s-s
+-s-s-p-s-s
+-
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+# Squidward
+
+START_LEVEL
+level_name:Squidward
+ball_velocities:45,5 -45,5 -30,5 30,5
+background:image(background_images/Squidward.jpg)
+paddle_speed:16
+paddle_width:160
+block_definitions:definitions/my_blocks_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+-sssssssssssss--
+-ppppppppppppp--
+END_BLOCKS
+END_LEVEL
+
+
+START_LEVEL
+level_name:Squidward
+ball_velocities:45,10 -45,10
+background:image(background_images/Squidward.png)
+paddle_speed:16
+paddle_width:160
+block_definitions:definitions/my_blocks_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+x---------x
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+x---------x
+END_BLOCKS
+END_LEVEL
